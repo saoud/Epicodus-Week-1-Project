@@ -1,37 +1,42 @@
-# Saoud's Into to Programming Portfolio_
+# _Saoud Rana's Portfolio_
 
-#### _{Portfolio that shows what I've learned in the first week of Epicodus. Jan 16, 2021}_
+#### _A portfolio highlighting Saoud Rana's coding experience._
+_January 15th 2021_
 
-#### By _**{Saoud Rana}**_
+#### By _**Saoud Rana**_
 
 ## Description
 
-_{This is a website I have built to have a landing site to all of the things I've done in Intro to Programming at Epicodus. It also serves to let anyone who looks a little about me and why I'm here. }_
+_A webpage built to showcase the biographical information of Saoud Rana, as well as their various coding projects._
 
 ## Setup/Installation Requirements
 
-* _Open_
-* _in_
-* _a_
-* _modern_
-* _Browser_
+* _Open terminal and navigate to 'Desktop'._
+* _In terminal, type 'git clone https://github.com/saoud/portfolio.git' and press enter._
+* _In terminal, type 'cd portfolio' and press enter._
+* _In terminal, type 'code .' and press enter to open project in VS Code._
+* _Right click on 'index.html' and select 'Open with Live Server' to view page in your favorite web browser._
 
-_{This likely won't work on older browsers (such as Internet Explorer before 9, old Chrome or Firefox setups, etc.). You will also need to have javascript enabled.}_
+* _To view website via GitHub Pages, access the link through 'https://saoud.github.io/portfolio/'_
+
+
+
 
 ## Known Bugs
 
-_{}_
+_There are currently no known bugs._
 
 ## Support and contact details
 
-_{If there's an issue, please email me at githubissues@saoud.dev}_
+_For support, contact Saoud Rana <githubissues@saoud.dev>_
 
 ## Technologies Used
 
-_{HTML, CSS, javascript. Lots of bootstrap bits}_
+* _HTML, CSS, MarkDown_
+* _VS Code_
 
 ### License
 
-*{GNU}*
+*Available via the MIT license.*
 
-Copyright (c) 2021 **_{Saoud Rana}_**
+Copyright (c) 2021 **_Saoud Rana_**
