@@ -1,4 +1,52 @@
-h1 {
-  font-weight: bold;
-  color: blue;
+.jumbotron {
+  background-image: url('/img/sparkles.png');
+  text-align: center;
+  border: black;
+}
+
+.sidebar {
+  background-color: white;
+  width: 30%;
+  float: left;
+  border-color: black;
+  border-radius: 10%;
+  border-style: groove;
+  padding: 5px;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.column1 {
+  width: 300px;
+  float: left;
+  padding: 5px;
+  padding-bottom: 5%;
+}
+
+.column1 img {
+  width: 300px;
+  border-color: black;
+  border-radius: 10px;
+  border-style: solid;
+  float: left;
+}
+
+.column2 {
+  width: 300px;
+  float: left;
+  padding: 5px;
+  border-color: black;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+.color {
+  color: purple;
 }
