@@ -24,7 +24,7 @@ _{}_
 
 ## Support and contact details
 
-_{If there's an issue, please email me at saoud@saoud.dev}_
+_{If there's an issue, please email me at githubissues@saoud.dev}_
 
 ## Technologies Used
 
