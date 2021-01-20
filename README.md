@@ -13,7 +13,7 @@ _A webpage built to showcase the biographical information of Saoud Rana, as well
 
 * _Open terminal and navigate to 'Desktop'._
 * _In terminal, type 'git clone https://github.com/saoud/portfolio.git' and press enter._
-* _You have two options, you can just drag the inde.html file to your browser or you can follow the following steps:_
+* _You have two options, you can just drag the index.html file to your browser or you can follow the following steps:_
 * _1. In terminal, type 'cd portfolio' and press enter._
 * _2. In terminal, type 'code .' and press enter to open project in VS Code._
 * _3. Right click on 'index.html' and select 'Open with Live Server' to view page in your favorite web browser._
